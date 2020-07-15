@@ -112,32 +112,22 @@ of begin with java.
     </pre>
 </details>
 
-- WAP (Write a program) to a print the following pattern. User enters `rows` 
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java)
-````text
-********
-***  ***
-**    **
-*      *
-        
-*      *
-**    **
-***  ***
-********
-````
+<details>
+    <summary>Question 2</summary>
+    WAP to print the following pattern. User will enter number of rows (<code>rows</code> >= 2). If user
+    enters <code>rows</code> < 2 then no pattern is printed. You can also add a second variable called
+    <code>columns</code> that takes how many stars <code>*</code> to print in the first and last line.
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern2.java">[See Solution]</a>
+    <pre>
+    ********
+    *      *
+    *      *
+    *      *
+    *      *
+    ********
+    </pre>
+</details>
 
-- WAP to print the following pattern. User will enter number of rows (`rows` >= 2). If user
-enters `rows` < 2 then no pattern is printed. You can also add a second variable called
-`columns` that takes how many stars `*` to print in the first and last line. 
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern2.java)
-````text
-********
-*      *
-*      *
-*      *
-*      *
-********
-````
 
 - WAP to print the following pattern, User enters `rows`
 [[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern3.java)
