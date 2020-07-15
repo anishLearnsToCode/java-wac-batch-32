@@ -439,8 +439,8 @@ For <code>rows = 5</code>
 
 <details>
     <summary>Question 19</summary>
-    <p>WAP to print the following pattern (Butterfly pattern)</p>
-    <p><a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java">[See Solution]</a></p>
+    <p>WAP to print the following pattern (Butterfly pattern)
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java">[See Solution]</a></p>
     <p>For <code>rows = 3</code></p>
     <pre>
     *    *
