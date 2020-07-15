@@ -20,7 +20,7 @@
 - [Day 8](#day-8)  
 - [Day 9](#day-9)  
 - [Day 10](#day-10)
-- [Capstone Project]()  
+- [Capstone Project](#capstone-project)  
 - [Further Reading](#further-reading)
 - [Future Path? What to do next? 🤔🐱‍🏍](#future-path)
 
