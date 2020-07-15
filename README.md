@@ -127,9 +127,9 @@ class HelloWorld {
 To run the code navigate to file in terminal and run the following commands.
 
 ```shell script
-> javac HelloWorld.java
-> java HelloWorld
-> Hello World # output
+javac HelloWorld.java
+java HelloWorld
+Hello World # output
 ```
 
 ## Day 1
