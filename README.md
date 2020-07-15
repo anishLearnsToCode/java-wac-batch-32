@@ -442,30 +442,29 @@ For <code>rows = 5</code>
     <p>WAP to print the following pattern (Butterfly pattern)
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java">[See Solution]</a></p>
     <p>For <code>rows = 3</code></p>
-    <pre>
-    *    *
-    **  **
-    ******
-    ******
-    **  **
-    *    *
-    </pre>
+<pre>
+*    *
+**  **
+******
+******
+**  **
+*    *
+</pre>
+
+<p>For <code>rows = 5</code></p>
+<pre>
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+</pre>
 </details>
-
-
-For `row = 5`
-````text
-*        *
-**      **
-***    ***
-****  ****
-**********
-**********
-****  ****
-***    ***
-**      **
-*        *
-````
 
 ## Day 4
 ### Topics Covered
