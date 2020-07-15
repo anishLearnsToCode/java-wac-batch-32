@@ -100,10 +100,11 @@ of begin with java.
     <summary>Question 1</summary>
     WAP (Write a program) to a print the following pattern. User enters <code>rows</code> 
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
+    <pre>
     <code>
         <span>********</span> <br>
         <span>***  ***</span> <br>
-        <span>**    **</span>
+        <span>**    **</span> <br>
         <span>*      *</span>
         <span></span>        
         <span>*      *</span>
@@ -111,6 +112,7 @@ of begin with java.
         <span>***  ***</span>
         <span>********</span>    
     </code>
+    </pre>
 </details>
 
 - WAP (Write a program) to a print the following pattern. User enters `rows` 
