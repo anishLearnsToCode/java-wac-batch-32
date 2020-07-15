@@ -473,7 +473,7 @@ For <code>rows = 5</code>
 1. [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
 
 2. WAP to create a function `add()` that takes 2 integer values and returns the sum.
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Sum2Integers.java)
 ````java
 public static int add(int a, int b) {
 }
