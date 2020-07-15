@@ -719,6 +719,11 @@ different implementations and ideas we might've used or to use as a reference if
 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaHashset.java) |
 | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMap.java) |
 
+## Capstone Project
+To showcase what we have learnt in this 10 day training workshop I have built a small hangman cli game
+that  covers the different language constructs we have seen and also shows an example project that
+can be built using Java. [See here :octocat:](https://github.com/anishLearnsToCode/hangman-cli-java).
+
 ## Further Reading
 The following online resources/videos, practice Questions and Books 📚 are a good place to further enhance 
 your Java Knowledge.
@@ -805,13 +810,13 @@ ones being:
 Web development consists of 2 major parts. One is designing the client side that mainly covers designing the 
 interface and front end controls that the client will be able to see and interact with. The core front-end technologies
 are HTML, CSS and JavaScript and all popular frameworks such as 
-[Angular](),
-[Vue]() &
-[React]() 
+[Angular](https://angular.io/),
+[Vue](https://vuejs.org/) &
+[React](https://reactjs.org/) 
 have been built using these core technologies only!
 
 So, if you are interested in front-end design you can learn the basics of HTML5 + CSS3 + js @ 
-[w3 schools]() and then learn any popular front-end framework. The other part of web development is the server side
+[w3 schools](https://www.w3schools.com/html/) and then learn any popular front-end framework. The other part of web development is the server side
 part which is hidden from the user and this is where all the heavy lifting and computation takes place. This is also 
 where all the logic such as validation, authentication and parsing of data takes place. 
 
