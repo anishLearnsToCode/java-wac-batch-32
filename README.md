@@ -118,14 +118,14 @@ of begin with java.
     enters <code>rows</code> < 2 then no pattern is printed. You can also add a second variable called
     <code>columns</code> that takes how many stars <code>*</code> to print in the first and last line.
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern2.java">[See Solution]</a>
-    <pre>
-    ********
-    *      *
-    *      *
-    *      *
-    *      *
-    ********
-    </pre>
+<pre>
+********
+*      *
+*      *
+*      *
+*      *
+********
+</pre>
 </details>
 
 
