@@ -299,12 +299,12 @@ In case <code>rows = 4</code>
 </pre>
 </details>
 
-
-- WAP to print the following pattern. User enters `rows`.
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern15.java)
-
-For `row = 3`
-````text
+<details>
+    <summary>Question 15</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.  
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern15.java">[See Solution]</a>
+For <code>rows = 3</code>
+<pre>
 3
 44
 555
@@ -312,17 +312,19 @@ For `row = 3`
 555
 44
 3
-````
-For `row = 2`
-````text
+</pre>
+
+For <code>rows = 2</code>
+<pre>
 2
 33
 444
 33
 2
-````
-For `row=5`
-````text
+</pre>
+
+For <code>rows = 5</code>
+<pre>
 5
 66
 777
@@ -334,38 +336,44 @@ For `row=5`
 777
 66
 5
-````
+</pre>
+</details>
 
-- WAP to print the following pattern. User enters `rows`. 
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern16.java)
-
-For `rows = 4`.
-```text
+<details>
+    <summary>Question 16</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.  
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern16.java">[See Solution]</a>
+For <code>rows = 4</code>
+<pre>
 1
 2 3
 4 5 6
 7 8 9 10
-```
+</pre>
 
-For `row = 2`
-````text
-1 
+For <code>rows = 2</code>
+<pre>
+1
 2 3
-````
+</pre>
+</details>
 
-- WAP to print the following pattern. User enters `rows`. For `rows = 3`
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern17.java)
-````text
+<details>
+    <summary>Question 17</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.  
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern17.java">[See Solution]</a>
+For <code>rows = 4</code>
+<pre>
 1
 2*3
 4*5*6
 4*5*6
 2*3
 1
-````
+</pre>
 
-for `row = 4`
-````text
+If <code>rows = 4</code>
+<pre>
 1
 2*3
 4*5*6
@@ -374,46 +382,48 @@ for `row = 4`
 4*5*6
 2*3
 1
-````
+</pre>
+</details>
 
-- WAP to print the following pattern (Pascal's Triangle). User enters `rows`. 
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern18.java)
-
-For `rows = 5`
-
-```text
+<details>
+    <summary>Question 18</summary>
+    WAP to print the following pattern (Pascal's Triangle). User enters <code>rows</code>.  
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern18.java">[See Solution]</a>
+For <code>rows = 5</code>
+<pre>
 1
 1 1
 1 2 1
 1 3 3 1
 1 4 6 4 1
-``` 
+</pre>
 
 The pattern is derived in the pascal's triangle using values in the previous row.
-e.g. 
-````text
+<pre>
 1
 1 1
 1 (1 + 1) 1
 1 (1 + 2) (2 + 1) 1
 1 (1 + 3) (3 + 3) (3 + 1) 1
-````
+</pre>
+</details>
 
-- WAP to print the following pattern (Hollow Rhombus). 
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java)
-
-For `row=3`
-````text
+<details>
+    <summary>Question 18</summary>
+    WAP to print the following pattern (Hollow Rhombus). User enters <code>rows</code>.  
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
+For <code>rows = 3</code>
+<pre>
 ******
 **  **
 *    *
 *    *
 **  **
 ******
-````
+</pre>
 
-For `row = 5`
-````text
+For <code>rows = 5</code>
+<pre>
 **********
 ****  ****
 ***    ***
@@ -424,20 +434,24 @@ For `row = 5`
 ***    ***
 **** *****
 **********
-````
+</pre>
+</details>
 
-- WAP to print the following pattern (Butterfly pattern). 
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java)
+<details>
+    <summary>Question 19</summary>
+    <p>WAP to print the following pattern (Butterfly pattern)</p>
+    <p><a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java">[See Solution]</a></p>
+    <p>For <code>rows = 3</code></p>
+    <pre>
+    *    *
+    **  **
+    ******
+    ******
+    **  **
+    *    *
+    </pre>
+</details>
 
-For `row = 3`
-````text
-*    *
-**  **
-******
-******
-**  **
-*    *
-````
 
 For `row = 5`
 ````text
