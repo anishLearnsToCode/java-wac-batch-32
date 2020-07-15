@@ -1,6 +1,7 @@
 # Introduction To Java and Programming Fundamentals
 
-Solutions to all sample problems on HackerRank under the Java domain can be 
+Solutions to all sample problems on HackerRank under the 
+[Java domain](https://www.hackerrank.com/domains/java) can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-java).
 
 Programming is a very hands process and is both an art as well as a science. We are
@@ -12,17 +13,23 @@ and making the first step in any direction is commendable, but the cardinal fact
 will be you sitting down (or standing) and writing code. No book or resource can substitute that.
 
 So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can....  
-  
+
+## Index
+- [Day 1](#day-1)  
+- [Day 2](#day-2)  
+- [Day 3](#day-3)  
+- [Day 4](#day-4)  
+- [Day 5](#day-5)  
+- [Day 6](#day-6)  
+- [Day 7](#day-7)  
+- [Day 8](#day-8)  
+- [Day 9](#day-9)  
+- [Day 10](#day-10)  
+- [Further Reading]()
+- [Future Path? What to do next? 😕]()
 
 ## Day 1
 ### Topics Covered
-- Java Introduction
-- Printing values and Taking input
-- Variables and Data Types
-- Operators and Arithmetic
-- Conditional Statements 
-- Comments
-- Import Statements
 
 ### Sample Problems To Try
 | Problem   | Source     |Solution Link|
@@ -37,11 +44,6 @@ So, what are you waiting for 😀😉 - try as many questions (below or otherwis
 
 ## Day 2
 ### Topics Covered
-- While Loop
-- For Loop
-- Break Statement
-- Fibonacci Series
-
 
 ### Sample Problems To Try
 | Problem | Source | Solution Link |
@@ -78,9 +80,6 @@ So, what are you waiting for 😀😉 - try as many questions (below or otherwis
 
 ## Day 3
 ### Topics Covered
-- For Loop 
-- Nested For Loops
-- Pattern Printing Questions 
 
 ### Sample Problems to Try
 - Question 18 of the [loops section](http://www.beginwithjava.com/java/loops/questions.html) 
@@ -94,6 +93,13 @@ of begin with java.
 | Question 18. d | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18d.java) |
 | Question 18. e | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18e.java) |
 | Question 18. f | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18f.java) |
+
+<details>
+    <summary>Question 1</summary>
+    WAP (Write a program) to a print the following pattern. User enters <code>rows</code> 
+    <a href="">See Solution</a>
+    [[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
+</details>
 
 - WAP (Write a program) to a print the following pattern. User enters `rows` 
 [[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
