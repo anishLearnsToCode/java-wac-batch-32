@@ -104,11 +104,11 @@ of begin with java.
         <span>********</span>
         <span>***  ***</span>
         <span>**    **</span>
-        <span>*      *</span>
-        <span></span>        
-        <span>*      *</span>
-        <span>**    **</span>
-        <span>***  ***</span>
+        *      *
+                
+        *      *
+        **    **
+        ***  ***
         ********
     </pre>
 </details>
