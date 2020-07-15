@@ -8,6 +8,12 @@
 [![hackerrank-algo](https://img.shields.io/badge/hackerrank-algorithms-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-algorithms)
 [![hackerrank-interview-prep](https://img.shields.io/badge/hackerrank-Interview%20Preparation%20Kit-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
 
+<details>
+    <summary><b>Workshop Timings</b></summary>
+    Workshop Dates: 16th - 29th July 2020 (weekdays) <br>
+    Workshop Timings: 12:00 AM - 3:30 PM (12 - 15.30)
+</details>
+
 ## Index
 - [Introduction](#introduction)
 - [Day 1](#day-1)  
