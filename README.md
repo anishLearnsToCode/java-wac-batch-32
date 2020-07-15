@@ -470,33 +470,33 @@ For <code>rows = 5</code>
 ### Topics Covered
 
 ### Sample Problems
-- [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
+1. [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
 
-- WAP to create a function `add()` that takes 2 integer values and returns the sum.
+2. WAP to create a function `add()` that takes 2 integer values and returns the sum.
 ````java
 public static int add(int a, int b) {
 }
 ```` 
 
-- WAP to create a function `difference()` that takes 2 integer values and returns the difference.
+3. WAP to create a function `difference()` that takes 2 integer values and returns the difference.
 ````java
 public static int difference(int a, int b) {
 }
 ```` 
 
-- WAP to create a function `product()` that takes 2 integer values and returns the product.
+4. WAP to create a function `product()` that takes 2 integer values and returns the product.
 ````java
 public static int product(int a, int b) {
 }
 ```` 
 
-- WAP to create a function `divide()` that takes 2 integer values and returns the quotient.
+5. WAP to create a function `divide()` that takes 2 integer values and returns the quotient.
 ````java
 public static int divide(int a, int b) {
 }
 ```` 
 
-- WAP that creates a function which calculates the factorial of a number `n`. Where:
+6. WAP that creates a function which calculates the factorial of a number `n`. Where:
 ````text
 0! = 1
 1! = 1
@@ -696,3 +696,7 @@ different implementations and ideas we might've used or to use as a reference if
 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaHashset.java) |
 | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMap.java) |
 | [Pair Sums](https://www.hackerrank.com/challenges/pair-sums/problem) | HackerRank | [Solution]() |
+
+## Further Reading
+
+## Future Path??
