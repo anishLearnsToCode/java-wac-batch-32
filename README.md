@@ -101,11 +101,11 @@ of begin with java.
     WAP (Write a program) to a print the following pattern. User enters <code>rows</code> 
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
     <pre>
-        <span>********</span>
-        <span>***  ***</span>
-        <span>**    **</span>
+        ********
+        ***  ***
+        **    **
         *      *
-                
+        <br>        
         *      *
         **    **
         ***  ***
