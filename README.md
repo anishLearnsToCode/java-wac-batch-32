@@ -1,5 +1,13 @@
 # Introduction To Java ☕ + Programming Fundamentals
 
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/java-wac-batch-32.svg)
+![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+[![hackerrank-java](https://img.shields.io/badge/hackerrank-java-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java)
+[![hackerrank-ds](https://img.shields.io/badge/hackerrank-Data%20Structures-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-data-structures)
+[![hackerrank-algo](https://img.shields.io/badge/hackerrank-algorithms-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-algorithms)
+[![hackerrank-interview-prep](https://img.shields.io/badge/hackerrank-Interview%20Preparation%20Kit-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
+
 ## Index
 - [Introduction](#introduction)
 - [Day 1](#day-1)  
@@ -11,7 +19,8 @@
 - [Day 7](#day-7)  
 - [Day 8](#day-8)  
 - [Day 9](#day-9)  
-- [Day 10](#day-10)  
+- [Day 10](#day-10)
+- [Capstone Project]()  
 - [Further Reading](#further-reading)
 - [Future Path? What to do next? 🤔🐱‍🏍](#future-path)
 
@@ -792,3 +801,20 @@ ones being:
         the way for a faster and more efficient development eco-system
     </p>
 </details>
+
+Web development consists of 2 major parts. One is designing the client side that mainly covers designing the 
+interface and front end controls that the client will be able to see and interact with. The core front-end technologies
+are HTML, CSS and JavaScript and all popular frameworks such as 
+[Angular](),
+[Vue]() &
+[React]() 
+have been built using these core technologies only!
+
+So, if you are interested in front-end design you can learn the basics of HTML5 + CSS3 + js @ 
+[w3 schools]() and then learn any popular front-end framework. The other part of web development is the server side
+part which is hidden from the user and this is where all the heavy lifting and computation takes place. This is also 
+where all the logic such as validation, authentication and parsing of data takes place. 
+
+Both Spring ad Spring Boot are server side frameworks built on Java and after this course you can easily get started
+with either as you are now familiar with all Language constructs.
+  
