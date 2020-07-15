@@ -13,7 +13,7 @@
 - [Day 9](#day-9)  
 - [Day 10](#day-10)  
 - [Further Reading]()
-- [Future Path? What to do next? 😕]()
+- [Future Path? What to do next? 🤔🐱‍🏍]()
 
 ## Introduction
 Solutions to all sample problems on HackerRank under the 
@@ -468,13 +468,10 @@ For <code>rows = 5</code>
 
 ## Day 4
 ### Topics Covered
-- Switch Statement
-- Amortised Code Analysis (Big-O Notation)
-- Functions
-- java.Math Module
 
 ### Sample Problems
 - [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
+
 - WAP to create a function `add()` that takes 2 integer values and returns the sum.
 ````java
 public static int add(int a, int b) {
@@ -551,10 +548,6 @@ dayFrom(6) --> "Saturday"
 
 ## Day 5
 ### Topics Covered
-- Functions and methods continued
-- Function Polymorphism
-- Method Overriding
-- Recursion
 
 ### Sample Problems
 - WAP to return the value of the sum of the following series recursively given `n`.
@@ -580,10 +573,6 @@ this sum recursively.
 
 ## Day 6
 ### Topics Covered
-- 1D Arrays
-- Varargs Methods
-- Foreach Loop
-- 2D Arrays
 
 ### Sample Problems
 1. WAP to input an integer number `length` from the user and then instantiate an integer array of size
@@ -656,14 +645,6 @@ this sum recursively.
 
 ## Day 7
 ### Topics Discussed
-- Object Oriented Programming Basics
-- Classes and Objects
-- Constructors
-- Default Constructors
-- Parameterized Constructors
-- Constructor Overloading
-- Access Modifier
-- The Final Keyword
 
 ### Sample Problems
 | Problem | Platform | Solution Link |
@@ -678,15 +659,6 @@ this sum recursively.
 
 ## Day 8
 ### Topics Covered
-- OOP Continued
-- Class Inheritance
-- The Java Object Class
-- Java Interfaces
-- Dynamic Binding 
-- The Java Collection Interface
-- The Java ArrayList<T> Class
-- Example ArrayList<Integer>
-- Example HashSet<Integer>
 
 ### Sample Problems
 Try the problems given below and have a look at the solution only after you have solved it to see the 
@@ -701,19 +673,6 @@ different implementations and ideas we might've used or to use as a reference if
 
 ## Day 9
 ### Topics Discussed
-- @Override decorator
-- Overriding toString() and equals() method from the java.lang.Object Object 
-- Collections Interface
-- List Interface
-- Arraylist class
-- Stack Class
-- Queue Interface
-- LinkedList Class
-- Priority Queue
-- Iterable Interface
-- Iterators
-- Comparator Interface
-- compareTo() method
 
 ### Sample Problems
 Try the problems given below and have a look at the solution only after you have solved it to see the 
@@ -729,7 +688,6 @@ different implementations and ideas we might've used or to use as a reference if
 
 ## Day 10
 ### Topics Discussed
-
 
 ### Sample Problems
 | Problem | Platform | Solution Link |
