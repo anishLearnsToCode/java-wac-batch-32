@@ -1,4 +1,4 @@
-# Introduction To Java and Programming Fundamentals
+# Introduction To Java ☕ + Programming Fundamentals
 
 ## Index
 - [Introduction](#introduction)
@@ -771,7 +771,7 @@ course on Coursera by Atlassian or you can even try this
 [Git Introductory 30min Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 on YouTube to learn the basics of git.
 
-Sp, what are you waiting for git started 😁 (bad pun!)
+So, what are you waiting for git started 😁 (bad pun!)
 
 ### Web Development
 Java being such a versatile and popular language has many web frameworks that have been built on it. The most popular 
