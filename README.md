@@ -724,3 +724,67 @@ your Java Knowledge.
 _Hint: :octocat: points to solution repo links..._
  
 ## Future Path??
+Java is a very popular programming language and by learning the basics and stepping out into the Object Oriented 
+Programing using Java could never be a bad step ;)
+
+You can now advance in many different directions and learn many varied skill-sets.
+
+### Core Java
+Something that you think about doing is further learning more Java basics and improving your fundamental understanding
+of the different concepts in Java such as different recipes to use the Object Oriented Programming to 
+create different design patterns etc. 
+
+Also learning about threads and multi-threaded programs and understanding the core library and interfaces and
+concepts such as Reflection in a better manner.
+
+This can be done by going through the questions on the [Java Domain](https://www.hackerrank.com/domains/java) 
+on hackerRank whose solutions can be found 
+[here](https://github.com/anishLearnsToCode/hackerrank-java).
+
+You could also read up about the language comprehensively in Herbert Schildt's Excellent Reference volume 
+[here 📘](https://github.com/anishLearnsToCode/books/blob/master/java/Java%20-%20The%20Complete%20Reference%2C%209th%20Edition%20-%20Herbert%20Schildt.pdf)
+
+### Data Structures and Algorithms 👩‍💻
+Or like me you can take a deep dive in solving problems because that's just too much fun 🎉. I highly recommend
+HackerRank's [Data Structures](https://www.hackerrank.com/domains/data-structures) &
+[Algorithms](https://www.hackerrank.com/domains/algorithms) domain whose solutions can be found 
+[here](https://github.com/anishLearnsToCode/hackerrank-data-structures) &
+[here](https://github.com/anishLearnsToCode/hackerrank-algorithms). 
+I also recommend trying out programming challenges on 
+[leet code](https://leetcode.com/problemset/algorithms/) for those who may not like HackerRank's UI. And if you do try 
+that, do help me in building up my 
+[leet code solutions](https://github.com/anishLearnsToCode/leetcode-algorithms) 
+repository by contributing (making pull requests).
+
+### Learning Git ![git-scm](https://img.icons8.com/color/25/000000/git.png)
+This is not very correlated to Java, but Git is a technology being used by all organizations big and small 
+that wish to maintain their code over teams of varied sizes and manage projects. Even this repository which you 
+are currently reading in is being maintained by [git]() &
+has been deployed on [github]().
+
+Being proficeint with git and version control will help you manage all your projects, be in any language Java,
+Python, C++ and even non-programming projects very efficiently and you will be able to easily maintain project 
+state over all your devices.
+
+There is an excellent [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) 
+course on Coursera by Atlassian or you can even try this 
+[Git Introductory 30min Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+on YouTube to learn the basics of git.
+
+Sp, what are you waiting for git started 😁 (bad pun!)
+
+### Web Development
+Java being such a versatile and popular language has many web frameworks that have been built on it. The most popular 
+ones being:
+
+- [Java Spring](https://spring.io/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+
+<details>
+    <summary><b>What is the Difference between Spring and Spring Boot?</b></summary>
+    <p>
+        Spring Boot is basically an extension of the Spring framework which eliminated the boilerplate configurations 
+        required for setting up a Spring application. It takes an opinionated view of the Spring platform which paved 
+        the way for a faster and more efficient development eco-system
+    </p>
+</details>
