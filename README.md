@@ -480,28 +480,28 @@ public static int add(int a, int b) {
 ```` 
 
 3. WAP to create a function `difference()` that takes 2 integer values and returns the difference.
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program3.java)
 ````java
 public static int difference(int a, int b) {
 }
 ```` 
 
 4. WAP to create a function `product()` that takes 2 integer values and returns the product.
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program4.java)
 ````java
 public static int product(int a, int b) {
 }
 ```` 
 
 5. WAP to create a function `divide()` that takes 2 integer values and returns the quotient.
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program5.java)
 ````java
 public static int divide(int a, int b) {
 }
 ```` 
 
 6. WAP that creates a function which calculates the factorial of a number `n`. Where:
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program6.java)
 ````text
 0! = 1
 1! = 1
@@ -510,7 +510,7 @@ public static int divide(int a, int b) {
 ````
 
 7. WAP to create a function that calculates the Binomial Coefficient `nCr`. Where:
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program7.java)
 ````text
 nCr = n! / (r! * (n-r)!)
 4C0 = 4! / 0! 4! = 1
@@ -518,7 +518,7 @@ nCr = n! / (r! * (n-r)!)
 ````
 
 8. WAP to create a function that calculates the Permutation value `nPr`. Where
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program7.java)
 ````text
 nPr = n! / (n-r)!
 5P0 = 5! / 5! = 1
@@ -526,7 +526,7 @@ nPr = n! / (n-r)!
 ```` 
 
 9. WAP to create a function to check whether a given number is prime or not.
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program9.java)
 ````java
 private static boolean isPrime(int number) {
 } 
@@ -534,7 +534,7 @@ private static boolean isPrime(int number) {
 
 10. WAP to create a function that returns the length of a hypotenuse of a right angle 
 triangle given the lengths of the other 2 sides
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program10.java)
 ````java
 private static double hypotenuseLength(double a, double b) {
 }
@@ -542,7 +542,7 @@ private static double hypotenuseLength(double a, double b) {
 
 11. WAP to create a function to return the day of the week (name) from the day number. 
 Example
-[[See Solution]]()
+[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/functions/Program11.java)
 ````java
 private static String dayFrom(int value) {
 }
