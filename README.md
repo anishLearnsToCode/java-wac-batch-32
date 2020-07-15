@@ -100,16 +100,16 @@ of begin with java.
     <summary>Question 1</summary>
     WAP (Write a program) to a print the following pattern. User enters <code>rows</code> 
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
-    <pre>
-    ********
-    ***  ***
-    **    **
-    *      *    <br>        
-    *      *
-    **    **
-    ***  ***
-    ********
-    </pre>
+<pre>
+********
+***  ***
+**    **
+*      *    <br>        
+*      *
+**    **
+***  ***
+********
+</pre>
 </details>
 
 <details>
@@ -128,55 +128,67 @@ of begin with java.
 </pre>
 </details>
 
-
-- WAP to print the following pattern, User enters `rows`
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern3.java)
-````text
+<details>
+    <summary>Question 3</summary>
+    WAP to print the following pattern, User enters <code>rows</code>
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern3.java">[See Solution]</a>
+<pre>
 *****
 *  *
 * *
 *
-````
+</pre>
+</details>
 
-- WAP to print the following pattern. User enters `rows`.
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern4.java)
-````text
+<details>
+    <summary>Question 4</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern4.java">[See Solution]</a>
+<pre>
 * * * * *
  * * * *
   * * *
    * *
     *
-````
+</pre>
+</details>
 
-- WAP to print the following pattern. User enters `rows`.
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern5.java)
-````text
+<details>
+    <summary>Question 5</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.
+<pre>
     *
    * *
   * * *
  * * * *
 * * * * *
-````
+</pre>  
+</details>
 
-- WAP to print the following pattern. User enters `rows`.
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern6.java)
-````text
+<details>
+    <summary>Question 6</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.
+<pre>
     *
    * *
   *   *
  *     *
 * * * * *
-````
+</pre>
+</details>
 
-- WAP to print the following pattern. User enters `rows`.
-[[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern7.java)
-````text
+<details>
+    <summary>Question 7</summary>
+    WAP to print the following pattern. User enters <code>rows</code>.  
+    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern7.java">[See Solution]</a>
+<pre>
 1
 1 2
 1 2 3
 1 2 3 4
 1 2 3 4 5
-````
+</pre>
+</details>
 
 - WAP to print the following pattern. User enters `rows`.
 [[See Solution]](https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern8.java)
