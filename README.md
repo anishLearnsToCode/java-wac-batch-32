@@ -12,8 +12,8 @@
 - [Day 8](#day-8)  
 - [Day 9](#day-9)  
 - [Day 10](#day-10)  
-- [Further Reading]()
-- [Future Path? What to do next? 🤔🐱‍🏍]()
+- [Further Reading](#further-reading)
+- [Future Path? What to do next? 🤔🐱‍🏍](#future-path)
 
 ## Introduction
 Solutions to all sample problems on HackerRank under the 
@@ -29,6 +29,10 @@ and making the first step in any direction is commendable, but the cardinal fact
 will be you sitting down (or standing) and writing code. No book or resource can substitute that.
 
 So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can....  
+
+Stalk your Instructor on 
+[GitHub](https://github.com/anishLearnsToCode) &
+[linkedIn](https://www.linkedin.com/in/anishsachdeva1998/).
 
 ## Day 1
 ### Topics Covered
