@@ -1,5 +1,7 @@
 package day1;
 
+import java.util.Scanner;
+
 public class IfElse {
     public static void main(String[] args) {
         /*
@@ -22,12 +24,29 @@ public class IfElse {
         else if is not compulsory
          */
 
-        if (true) {
-            System.out.println("i am in if block");
-        } else {
-            System.out.println("i am in else block");
+        if (false) {
+            System.out.println("yeah!! i am in if");
         }
 
-        System.out.println("i am outside if else");
+//        if (true) {
+//            System.out.println("i am in if block");
+//        } else {
+//            System.out.println("i am in else block");
+//        }
+
+        boolean itRains = false;
+        boolean weatherIsNice = false;
+
+        if (itRains) {
+            System.out.println("i will carry umbrella");
+        } else if (!itRains && weatherIsNice) {
+            System.out.println("i will go to picnic");
+        } else {
+            System.out.println("i will go cycling");
+        }
+
+        Scanner instrument = new Scanner(System.in);
+
+//        System.out.println("i am outside if else");
     }
 }

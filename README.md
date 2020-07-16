@@ -11,7 +11,7 @@
 <details>
     <summary><b>Workshop Timings</b></summary>
     Workshop Dates: 16th - 29th July 2020 (weekdays) <br>
-    Workshop Timings: 12:00 AM - 3:30 PM (12 - 15.30)
+    Workshop Timings: 12:00 AM - 3:30 PM (12 - 15.30) <br>
     Break Timings: 2:00 - 2:20 PM (14 - 14.20)
 </details>
 
@@ -141,8 +141,14 @@ Hello World # output
 - [Variable Names](src/day1/VariableNames.java)
 - [Taking User Input](src/day1/UserInput.java)
 - [Arithmetic Expressions](src/day1/ArithmeticExpressions.java)
+- [Operators Short Syntax](src/day1/OperatorShortSyntax.java)
 - [Logical Expressions](src/day1/LogicalExpressions.java)
 - [If Else Statements](src/day1/IfElse.java)
+- [Finding number is Even or Odd](src/day1/EvenOdd.java)
+- [Ternary Operator](src/day1/TernaryOperator.java)
+- [While Loops](src/day1/WhileLoops.java)
+- [Sum N Natural Numbers](src/day1/SumNNaturalNumbers.java)
+- [Factorial of a Number](src/day1/FactorialNumber.java)
 
 ### Sample Problems To Try
 | Problem   | Source     |Solution Link|
