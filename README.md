@@ -134,6 +134,14 @@ Hello World # output
 
 ## Day 1
 ### Topics Covered
+- [Hello World](src/day1/HelloWorld.java)
+- [Comments](src/day1/Comments.java)
+- [Data Types](src/day1/DataTypes.java)
+- [Variable Names](src/day1/VariableNames.java)
+- [Taking User Input](src/day1/UserInput.java)
+- [Arithmetic Expressions](src/day1/ArithmeticExpressions.java)
+- [Logical Expressions](src/day1/LogicalExpressions.java)
+- [If Else Statements](src/day1/IfElse.java)
 
 ### Sample Problems To Try
 | Problem   | Source     |Solution Link|
