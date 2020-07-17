@@ -163,6 +163,19 @@ Hello World # output
 
 ## Day 2
 ### Topics Covered
+- [Hello World Once Again !](src/day2/HelloWorld.java)
+- [While Loop](src/day2/While.java)
+- [For Loops](src/day2/ForLoops.java)
+- [Do While Loop](src/day2/DoWhile.java)
+- [Sum N Natural Numbers](src/day2/SumNNaturalNumbers.java)
+- [Sum of Squares of N natural Numbers](src/day2/SumNNaturalNumbersSquare.java)
+- [Pattern Question 1](src/day2/Pattern1.java)
+- [Pattern Question 2](src/day2/Pattern2.java)
+- [Pattern Question 3](src/day2/Pattern3.java)
+- [Pattern Question 4](src/day2/Pattern5.java)
+- [Pattern Question 5](src/day2/Pattern6.java)
+- [Control Flow Statements](src/day2/ControlFlowStatements.java)
+- [Switch Statements](src/day2/SwitchStatements.java)
 
 ### Sample Problems To Try
 | Problem | Source | Solution Link |
