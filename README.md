@@ -15,6 +15,8 @@
     Break Timings: 2:00 - 2:20 PM (14 - 14.20)
 </details>
 
+[Class Recordings 📽](https://onedrive.live.com/?authkey=%21AMhAl0bfPv9OAzM&id=BD99C9D5BDB4DD2E%2192164&cid=BD99C9D5BDB4DD2E)
+
 ## Index
 - [Introduction](#introduction)
 - [Environment Setup](#environment-setup)
@@ -52,7 +54,7 @@ Stalk your Instructor on
 [linkedIn](https://www.linkedin.com/in/anishsachdeva1998/).
 
 ## Environment Setup
-we need to install and configure a few things before we can write and run any Java code. To write Java code we 
+We need to install and configure a few things before we can write and run any Java code. To write Java code we 
 need the Java runtime environment (JRE) and the Java Development Kit. 
 
 ### 1. Install the Java Development Kit (JDK) 
