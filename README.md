@@ -214,6 +214,13 @@ Hello World # output
 
 ## Day 3
 ### Topics Covered
+- [Switch Statements](src/day3/SwitchStatements.java)
+- [Cosine Taylor Series Loop](src/day3/CosineTaylorSeries.java)
+- [Sine Taylor Series Loop](src/day3/SinTaylorSeries.java)
+- [Multiplication Table](src/day3/MultiplicationTable.java)
+- [Pascal's Triangle](src/day3/PascalTriangle.java)
+- [Functions](src/day3/Functions.java)
+- [Sum N Natural Numbers](src/day3/SumNNaturalNumber.java)
 
 ### Sample Problems to Try
 - Question 18 of the [loops section](http://www.beginwithjava.com/java/loops/questions.html) 
