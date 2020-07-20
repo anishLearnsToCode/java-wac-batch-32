@@ -6,6 +6,7 @@ public class TernaryOperator {
     public static void main(String[] args) {
         /*
         condition ? value1 : value2
+
         if (condition) {
             return value1;
         } else {

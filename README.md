@@ -541,7 +541,7 @@ The pattern is derived in the pascal's triangle using values in the previous row
 </details>
 
 <details>
-    <summary>Question 18</summary>
+    <summary>Question 19</summary>
     WAP to print the following pattern (Hollow Rhombus). User enters <code>rows</code>.  
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
 For <code>rows = 3</code>
@@ -570,7 +570,7 @@ For <code>rows = 5</code>
 </details>
 
 <details>
-    <summary>Question 19</summary>
+    <summary>Question 20</summary>
     <p>WAP to print the following pattern (Butterfly pattern)
     <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java">[See Solution]</a></p>
     <p>For <code>rows = 3</code></p>
