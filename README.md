@@ -618,6 +618,11 @@ For <code>rows = 5</code>
 - [Arrays Deeper Dive](src/day4/DeeperDiveArrays.java)
 - [For Each Loop](src/day4/ForEachLoop.java)
 - [Sum of Elements in Array](src/day4/SumArray.java)
+- [Binomial and Pascal's triangle](src/day4/Binomial.java)
+- [Cubes Example](src/day4/Cubes.java)
+- [Hypotenuse in Right Angled triangle](src/day4/HypotenuseRightTriangle.java)
+- [Odd even](src/day4/OddEven.java)
+- [Prime Numbers](src/day4/PrimeNumbers.java)
 
 ### Sample Problems
 1. [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
