@@ -607,6 +607,17 @@ For <code>rows = 5</code>
 
 ## Day 4
 ### Topics Covered
+- [Recursion](src/day4/Recursion.java)
+- [Sum N Natural Numbers](src/day4/SumNNaturalNumbers.java)
+- [Factorial: Introduction to Recursion](src/day4/Factorial.java)
+- [Fibonacci: Recursion Continued](src/day4/Fibonacci.java)
+- [Function Signatures](src/day4/FunctionSignatures.java)
+- [Math Module](src/day4/MathModule.java)
+- [Arrays](src/day4/Arrays.java)
+- [Array Input](src/day4/ArrayInput.java)
+- [Arrays Deeper Dive](src/day4/DeeperDiveArrays.java)
+- [For Each Loop](src/day4/ForEachLoop.java)
+- [Sum of Elements in Array](src/day4/SumArray.java)
 
 ### Sample Problems
 1. [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
