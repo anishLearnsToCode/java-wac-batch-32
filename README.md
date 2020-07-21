@@ -16,6 +16,7 @@
 </details>
 
 [Class Recordings 📽](https://onedrive.live.com/?authkey=%21AMhAl0bfPv9OAzM&id=BD99C9D5BDB4DD2E%2192164&cid=BD99C9D5BDB4DD2E)
+[Course Flow 🌊](course-flow.md)
 
 ## Index
 - [Introduction](#introduction)
@@ -881,7 +882,7 @@ your Java Knowledge.
 - [Clean Code 📘](https://github.com/anishLearnsToCode/books/blob/master/programming-best-practices/Clean%20Code.pdf)
 - [Stack Overflow Survey 2020](https://insights.stackoverflow.com/survey/2020)
 
-_Hint: :octocat: points to solution repo links..._
+> _Hint: :octocat: points to solution repo links..._
  
 ## Future Path??
 Java is a very popular programming language and by learning the basics and stepping out into the Object Oriented 
