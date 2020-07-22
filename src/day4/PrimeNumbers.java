@@ -17,7 +17,7 @@ public class PrimeNumbers {
     private static boolean isPrime(int number) {
 //        return factors(number) == 2;
 
-        for (int divisor = 2 ; divisor < number - 1 ; divisor++) {
+        for (int divisor = 2 ; divisor * divisor <= number ; divisor++) {
             if (number % divisor == 0) {
                 return false;
             }
