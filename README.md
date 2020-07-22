@@ -714,6 +714,21 @@ dayFrom(6) --> "Saturday"
 
 ## Day 5
 ### Topics Covered
+- [Swap](src/day5/Swap.java)
+- [Return Statement](src/day5/ReturnStatement.java)
+- [Sum of Power Series](src/day5/PowerSum.java)
+- [Finding Maximum Element in Array](src/day5/MaxElement.java)
+- [Finding Minimum Element in Array](src/day5/MinElement.java)
+- [Linear Search](src/day5/LinearSearch.java)
+- [Circular Right Shift (Home work)](src/day5/CircularRightShift.java)
+- [Number of Even Numbers in Array](src/day5/NumberEvenNumbersInArray.java)
+- [Zeros in Array](src/day5/NumberOfOddEvenZeroes.java)
+- [Palindrome](src/day5/Palindrome.java)
+- [Reverse of Array](src/day5/ReverseOfArray.java)
+- [Sub Array](src/day5/SubArrayInArray.java)
+- [Varargs Input](src/day5/VarargsMethod.java)
+- [2D Arrays](src/day5/TwoDArrays.java)
+- [2D Arrays Input](src/day5/TwoDArrayInput.java)
 
 ### Sample Problems
 - WAP to return the value of the sum of the following series recursively given `n`.
