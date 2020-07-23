@@ -754,6 +754,9 @@ this sum recursively.
 
 ## Day 6
 ### Topics Covered
+- [2D Array Instantiation](src/day6/TwoDArrayInstantiation.java)
+- [Symmetric Matrix](src/day6/MatrixSymmetric.java)
+- [Amortized Time Analysis](src/day6/AmortizedTimeAnalysis.java)
 
 ### Sample Problems
 1. WAP to input an integer number `length` from the user and then instantiate an integer array of size
