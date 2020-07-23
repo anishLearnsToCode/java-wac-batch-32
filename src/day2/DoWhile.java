@@ -12,6 +12,9 @@ public class DoWhile {
         code --> (condition --> code) --> condition
      */
 
+    /*
+        Time Complexity: n
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String message;

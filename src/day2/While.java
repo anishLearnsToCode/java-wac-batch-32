@@ -3,6 +3,8 @@ package day2;
 import java.util.Scanner;
 
 public class While {
+    // time complexity: O(n)
+    // space complexity: O(1)
     public static void main(String[] args) {
         // infinite loop
 //        while (true) {

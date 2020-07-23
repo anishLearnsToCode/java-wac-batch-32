@@ -3,6 +3,9 @@ package day1;
 import java.util.Scanner;
 
 public class UserInput {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         // ADT non-primitive
         Scanner scanner = new Scanner(System.in);

@@ -8,6 +8,8 @@ public class Functions {
         }
      */
 
+    // time complexity: O(1)
+    // space complexity: O(1)
     public static void main(String[] args) {
 //        helloWorld();
 //        System.out.println("function has ended");

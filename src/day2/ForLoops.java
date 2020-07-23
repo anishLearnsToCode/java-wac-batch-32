@@ -11,6 +11,9 @@ public class ForLoops {
         instantiation --> (condition --> code --> increment) --> condition false --> loop end
      */
 
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         int j = 10;
 

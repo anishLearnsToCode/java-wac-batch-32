@@ -3,6 +3,8 @@ package day2;
 import java.util.Scanner;
 
 public class SwitchStatements {
+    // time complexity: O(1)
+    // space complexity: O(1)
     public static void main(String[] args) {
         /*
             if (var == val1) {

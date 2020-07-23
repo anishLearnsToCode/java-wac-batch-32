@@ -1,6 +1,9 @@
 package day1;
 
 public class VariableNames {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         /*
         1. must have letters

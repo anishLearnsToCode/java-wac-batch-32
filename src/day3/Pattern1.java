@@ -17,11 +17,16 @@ public class Pattern1 {
         decreasing: (i, 1)
      */
 
+    // time complexity: O(n^2)
+    // space complexity: O(1)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
 
+        // total: n * 3n/2
         for (int i = 0 ; i < number ; i++) {
+            // n + i
+            // n + n/2 --> 3n/2
             for (int j = 0 ; j < number - i - 1 ; j++) {
                 System.out.print(' ');
             }

@@ -6,6 +6,7 @@ public class SumNNaturalNumbers {
     /*
         N
         1 + 2 + 3 + 4 + ... + N
+        Time Complexity: O(n)
      */
 
     public static void main(String[] args) {

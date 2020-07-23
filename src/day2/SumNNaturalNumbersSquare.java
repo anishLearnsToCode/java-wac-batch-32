@@ -8,6 +8,8 @@ public class SumNNaturalNumbersSquare {
         1^2 + 2^2 + 3^2 + ... + N^2
      */
 
+    // time complexity: O(n)
+    // space complexity: O(1)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();

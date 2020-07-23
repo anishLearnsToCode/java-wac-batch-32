@@ -28,6 +28,11 @@ public class Pattern5 {
         i : 0 1 2 3
         stars : 2 * i + 1
 
+        total: n - i - 1 + 2i + 1
+        ``n + i = n + n/2 = 3n/2
+
+        time complexity: n * 3n/2 = O(n^2)
+
         new line : 1
      */
 

@@ -8,6 +8,7 @@ public class SumNNaturalNumbers {
         1 + 2 + 3 + ... + N
      */
 
+    // time complexity: O(n)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();

@@ -23,23 +23,32 @@ public class PascalTriangle {
         nCr = n! / ((n - r)! * r!)
      */
 
+    // time complexity: O(n^3)
+    // space complexity: O(1)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int rows = scanner.nextInt();
 
+        // Time complexity: O(rows * i^2) = O(rows^3)
         for (int i = 0 ; i < rows ; i++) {
+            // time complexity: O(i^2)
             for (int j = 0 ; j < i + 1 ; j++) {
                 // print iCj
+                // time complexity: O(i)
                 System.out.print(combination(i, j) + " ");
             }
             System.out.println();
         }
     }
 
+    // time complexity: O(n + n - r + r) = O(n)
+    // space complexity: O(1)
     private static int combination(int n, int r) {
         return factorial(n) / (factorial(n - r) * factorial(r));
     }
 
+    // time complexity: O(n)
+    // space complexity: O(1)
     private static int factorial(int number) {
         int result = 1;
         for (int i = 1 ; i <= number ; i++) {

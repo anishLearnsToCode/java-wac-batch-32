@@ -1,6 +1,9 @@
 package day2;
 
 public class ControlFlowStatements {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         // continue
 //        for (int i = 0 ; i < 10 ; i++) {

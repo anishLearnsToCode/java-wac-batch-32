@@ -1,6 +1,9 @@
 package day1;
 
 public class WhileLoops {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         /*
         while (condition) {

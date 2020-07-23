@@ -3,6 +3,9 @@ package day1;
 import java.util.Scanner;
 
 public class TernaryOperator {
+    /*
+    `   Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         /*
         condition ? value1 : value2

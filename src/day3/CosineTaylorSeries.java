@@ -22,6 +22,8 @@ public class CosineTaylorSeries {
         (2i)!* (2i + 1) * (2i + 2) = (2i + 2)!
      */
 
+    // time complexity: O(1)
+    // space complexity: O(1)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double theta = scanner.nextDouble();
