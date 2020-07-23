@@ -1,6 +1,9 @@
 package day1;
 
 public class ArithmeticExpressions {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         int a = 5;
         int b = 3;

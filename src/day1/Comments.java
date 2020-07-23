@@ -1,6 +1,9 @@
 package day1;
 
 public class Comments {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         // Single line comments
         // single line comment

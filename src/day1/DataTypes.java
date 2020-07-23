@@ -1,6 +1,9 @@
 package day1;
 
 public class DataTypes {
+    /*
+        Time Complexity: O(1)
+     */
     public static void main(String[] args) {
         /*
     Variable Instantiation
