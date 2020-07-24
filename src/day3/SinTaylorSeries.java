@@ -16,6 +16,10 @@ public class SinTaylorSeries {
         instantiation --> (condition --> code --> updation)
      */
 
+    /*
+        time Complexity:  O(1)
+        space Complexity: O(1)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double theta = scanner.nextDouble();

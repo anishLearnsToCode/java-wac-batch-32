@@ -19,6 +19,16 @@ public class PowerSum {
         f(N - 1) = 1 + 2^2 + 3^3 + .... (n - 1)^(n - 1)
         f(N) = ??? f(N - 1) + n ^ n
         f(1) = 1
+
+        t(n^n) + t(n-1 ^ n-1) + ... t(1^1)
+        logn + log(n-1) + log(n-2) + log(n-3) + ... + log(1)
+        loga + log(b) = log(a . b)
+
+        log(1 . 2 . 3 . 4 . ..... n)  log(n!) = O(n log(n))
+
+        n! = sterlings approximation of the gamma function
+        time complexity: O(n log(n))
+        space complexity: O(number)
      */
     private static long sumPowerSeries(long number) {
         if (number == 1) {

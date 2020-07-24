@@ -5,6 +5,10 @@ public class Arrays {
         type[] variable_name = new type[length];
      */
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         int[] numbers = new int[10];
 //        System.out.println(numbers[0]);

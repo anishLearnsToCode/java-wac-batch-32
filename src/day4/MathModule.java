@@ -11,6 +11,10 @@ public class MathModule {
         System.out.println(randomInteger(-100, 100));
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static int randomInteger(int a, int b) {
         return (int) (Math.random() * (b - a) + a);
     }

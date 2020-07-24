@@ -17,6 +17,10 @@ public class Recursion {
 
     // base case
     // 0! = 1
+    /*
+        time complexity: O(number)
+        space complexity: O(number)
+     */
     private static long factorial(int number) {
         if (number == 0) {
             return 1;

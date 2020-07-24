@@ -1,6 +1,10 @@
 package day4;
 
 public class DeeperDiveArrays {
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         int[] array = new int[10];
         double[] a = new double[45];
@@ -18,12 +22,20 @@ public class DeeperDiveArrays {
         print(messages);
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void print(int[] array) {
         for (int index = 0 ; index < array.length ; index++) {
             System.out.print(array[index] + " ");
         }
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void print(String[] array) {
         for (int index = 0 ; index < array.length ; index++) {
             System.out.print(array[index] + " ");

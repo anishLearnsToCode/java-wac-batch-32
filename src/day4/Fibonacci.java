@@ -1,13 +1,12 @@
 package day4;
 
+import java.util.Scanner;
+
 public class Fibonacci {
     public static void main(String[] args) {
-//        System.out.println(fibonacci(0));
-//        System.out.println(fibonacci(1));
-//        System.out.println(fibonacci(2));
-//        System.out.println(fibonacci(3));
-//        System.out.println(fibonacci(4));
-        System.out.println(fibonacci(20));
+        Scanner scanner = new Scanner(System.in);
+        long number = scanner.nextLong();
+        System.out.println(fibonacci(number));
     }
 
     // f : 1 1 2 3 5 8 13 21 ....
@@ -15,8 +14,17 @@ public class Fibonacci {
     // f(1) = 1
     // f(n) = f(n - 1) + f(n - 2) (n >= 2)
 
-    private static int fibonacci(int number) {
-        System.out.println("fibo: " + number);
+    /*
+        f(n)
+        f(n-1)                  f(n-2)
+        n-2       n-3           n-3         n-4
+
+        1 + 2 + 4 + 8 + 16 + .... + 2^n = (2^(n+1) - 1) / (2 - 1) = 2^(n+1) - 1 = O(2^n)
+
+        time complexity: O(2^n)
+        space complexity: O(n)
+     */
+    private static long fibonacci(long number) {
         if (number == 0 || number == 1) {
             return 1;
         }

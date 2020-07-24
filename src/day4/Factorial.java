@@ -1,6 +1,10 @@
 package day4;
 
 public class Factorial {
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         System.out.println(factorial(0));
         System.out.println(factorial(1));
@@ -12,6 +16,10 @@ public class Factorial {
     }
 
     // n = 1 * 2 * 3 * ... * n
+    /*
+        time complexity: O(number)
+        space complexity: O(1)
+     */
     private static long factorial(int number) {
         long result = 1;
         for (int i = 1 ; i <= number ; i++) {

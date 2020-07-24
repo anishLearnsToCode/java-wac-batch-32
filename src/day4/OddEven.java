@@ -10,14 +10,26 @@ public class OddEven {
         System.out.println(mod(10));
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static boolean isEven(int number) {
         return number % 2 == 0;
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static boolean isOdd(int number) {
         return number % 2 == 1;
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static int product(int a, int b) {
         return a * b;
     }
@@ -25,6 +37,10 @@ public class OddEven {
     // {1, 5, -45}
     // 1 * 5 * -45
     // -225
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static int product(int[] array) {
         int result = 1;
         for (int element : array) {
@@ -36,6 +52,10 @@ public class OddEven {
     // negative --> positive
     // positive --> positive
     // mod(-10) = 10 mod(10) = 10
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static int mod(int number) {
         return number < 0 ? -number : number;
     }

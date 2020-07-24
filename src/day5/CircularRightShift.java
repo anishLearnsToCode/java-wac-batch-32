@@ -6,6 +6,10 @@ public class CircularRightShift {
 
     private static final Scanner scanner = new Scanner(System.in);
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
 //        int length = scanner.nextInt();
         int[] array = {1, 2, 3, 4, 5} ;
@@ -13,6 +17,10 @@ public class CircularRightShift {
         print(array);
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void print(int[] array) {
         for (int element : array) {
             System.out.print(element + " ");
@@ -20,6 +28,10 @@ public class CircularRightShift {
         System.out.println();
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(n)
+     */
     private static int[] getArray(int length) {
         int[] array = new int[length];
         for (int index = 0 ; index < array.length ; index++) {
@@ -35,6 +47,10 @@ public class CircularRightShift {
         {1 2 3 4 5} r = 4 {2 3 4 5 1}
         {1 2 3 4 5} r = 5 {1 2 3 4 5}
      */
+    /*
+        time complexity: O((rotation % n) * n)
+        space complexity: O(1)
+     */
     private static void shift(int[] array, int rotations) {
         rotations %= array.length;
         while (rotations-- > 0) {
@@ -47,6 +63,10 @@ public class CircularRightShift {
     // {-100 9 8 4 5} r r % n
     // r: 0 1 2 3 4 5 6 7 8 9 10 11 12 ...
     // r: 0 1 2 3 4 0 1 2 3 4 0  1  2  ...
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void rightShift(int[] array) {
         int lastIndex = array[array.length - 1];
         for (int index = array.length - 1 ; index > 0 ; index--) {

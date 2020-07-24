@@ -1,6 +1,10 @@
 package day5;
 
 public class MaxElement {
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         // representing infinity in java ♾
 //        System.out.println(Integer.MIN_VALUE);
@@ -22,6 +26,9 @@ public class MaxElement {
         {-100, -90, 4, 3} --> 4
         {} --> -Infinity
         {-1, -2, -3} -->
+
+        time complexity: O(n)
+        space complexity: O(1)
      */
     private static int maximum(int[] array) {
         int max = Integer.MIN_VALUE;

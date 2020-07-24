@@ -28,6 +28,10 @@ public class Pattern6 {
         0 + 1 + 2 + 3 + (n-1) = n * (n - 1) / 2 + 1
      */
 
+    /*
+        time complexity: O(rows^2)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int rows = scanner.nextInt();

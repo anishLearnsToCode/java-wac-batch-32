@@ -12,18 +12,34 @@ public class FunctionSignatures {
      */
 
     // area(int)
+    /*
+        TC: O(1)
+        SC: O(1)
+     */
     private static double area(int radius) {
         return Math.PI * radius * radius;
     }
 
+    /*
+            time complexity: O(1)
+            space complexiy: O(1)
+     */
     private static String fullName(String firstName) {
         return fullName(firstName, "");
     }
 
+    /*
+       tc : O(1)
+       sc : O(1)
+     */
     private static String fullName(String firstName, String lastName) {
         return firstName + " " + lastName;
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static String fullName(String firstName, String lastName, String middleName) {
         return firstName + " " + middleName + " " + lastName;
     }
