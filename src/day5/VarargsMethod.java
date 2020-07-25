@@ -4,6 +4,9 @@ public class VarargsMethod {
     /*
         varargs can be only one in one function
         they must be the last parameter
+
+        time complexity: O(1)
+        space complexity: O(1)
      */
     public static void main(String[] args) {
 //        System.out.println(sum(1, 2, 3, 4, 5));
@@ -15,6 +18,10 @@ public class VarargsMethod {
         func('i', 'j');
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static int sum(int... numbers) {
         int sum = 0;
         for (int element : numbers) {
@@ -23,6 +30,10 @@ public class VarargsMethod {
         return sum;
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static void func(char normal, char... characters) {
         System.out.println(normal);
         System.out.println(characters);

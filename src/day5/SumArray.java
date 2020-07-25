@@ -5,6 +5,10 @@ public class SumArray {
 
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static int sum(int[] array) {
         int sum = 0;
         for (int element : array) {

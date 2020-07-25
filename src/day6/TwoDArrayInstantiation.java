@@ -1,6 +1,10 @@
 package day6;
 
 public class TwoDArrayInstantiation {
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         int[][] data = {
                 {},
@@ -28,25 +32,13 @@ public class TwoDArrayInstantiation {
         };
 
         print(complex);
-
-//        print(data);
-//        printPrimitive3(data);
-
-//        System.out.println(data[1][0]);
-//        func(data);
-//        System.out.println(data[1][0]);
-
-//        int a = 10;
-//        System.out.println(a);
-//        func(a);
-//        System.out.println(a);
-
-//        int[] array = {1, 2, 3};
-//        System.out.println(array[0]);
-//        func(array);
-//        System.out.println(array[0]);
     }
 
+    /*
+        avg_elems per column
+        time complexity: O(rows * avg_elems)
+        space complexity: O(1)
+     */
     private static void printPrimitive(int[][] matrix) {
         for (int row = 0 ; row < matrix.length ; row++) {
             for (int column = 0 ; column < matrix[row].length ; column++) {
@@ -56,6 +48,10 @@ public class TwoDArrayInstantiation {
         }
     }
 
+    /*
+        time complexity: O(rows * columns)
+        space complexity: O(1)
+     */
     private static void printPrimitive2(int[][] matrix) {
         for (int row = 0 ; row < matrix.length ; row++) {
             for (int element : matrix[row]) {
@@ -65,6 +61,10 @@ public class TwoDArrayInstantiation {
         }
     }
 
+    /*
+        time complexity: O(rows * columns)
+        space complexity: O(1)
+     */
     private static void printPrimitive3(int[][] matrix) {
         for (int[] row : matrix) {
             for (int element : row) {
@@ -74,6 +74,10 @@ public class TwoDArrayInstantiation {
         }
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void printAdvanced(int[] array) {
         for (int element : array) {
             System.out.print(element + " ");
@@ -81,12 +85,20 @@ public class TwoDArrayInstantiation {
         System.out.println();
     }
 
+    /*
+        time complexity: O(rows * columns)
+        space complexity: O(1)
+     */
     private static void printAdvanced(int[][] matrix) {
         for (int[] row : matrix) {
             printAdvanced(row);
         }
     }
 
+    /*
+        time complexity: O(n * rows * columns)
+        space complexity: O(1)
+     */
     private static void print(int[][][] array) {
         for (int[][] matrix : array) {
             print(matrix);
@@ -94,12 +106,20 @@ public class TwoDArrayInstantiation {
         }
     }
 
+    /*
+        time complexity: O(rows * columns)
+        space complexity: O(1)
+     */
     private static void print(int[][] matrix) {
         for (int[] element : matrix) {
             print(element);
         }
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void print(int[] array) {
         for (int element : array) {
             System.out.print(element + " ");
@@ -108,14 +128,26 @@ public class TwoDArrayInstantiation {
     }
 
     // pass by reference
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static void func(int[][] matrix) {
         matrix[1][0] = 100;
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static void func(int a) {
         a = 100;
     }
 
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     private static void func(int[] i) {
         i[0] = 100;
     }

@@ -3,6 +3,10 @@ package day5;
 import java.util.Arrays;
 
 public class TwoDArrays {
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         int[] array = new int[10];
 

@@ -829,6 +829,8 @@ this sum recursively.
 
 ## Day 7
 ### Topics Discussed
+ [Time Complexity Problem 1](src/day7/TimeComplexity.java)
+ [Time Complexity Problem 2](src/day7/TimeComplexity2.java)
 
 ### Sample Problems
 | Problem | Platform | Solution Link |

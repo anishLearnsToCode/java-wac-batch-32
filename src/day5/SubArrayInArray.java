@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class SubArrayInArray {
     private static final Scanner scanner = new Scanner(System.in);
 
+    /*
+        time complexity: O(n)
+        space complexity: O(n)
+     */
     public static void main(String[] args) {
         int length = scanner.nextInt();
         int[] array = getArray(length);
@@ -13,6 +17,10 @@ public class SubArrayInArray {
         print(subArray(array, startIndex, endIndex));
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(1)
+     */
     private static void print(int[] array) {
         for (int element : array) {
             System.out.print(element + " ");
@@ -20,6 +28,10 @@ public class SubArrayInArray {
         System.out.println();
     }
 
+    /*
+        time complexity: O(n)
+        space complexity: O(n)
+     */
     private static int[] getArray(int length) {
         int[] array = new int[length];
         for (int index = 0 ; index < array.length ; index++) {
@@ -33,6 +45,9 @@ public class SubArrayInArray {
         {-100, 90, 87, 34, 56, 231} (4, 6) --> [4 5] --> [56 231]
         {1, 2, 3} (1, 1) --> [] --> []
         {1, 2, 3} (1, 2) -> [1] --> [2]
+
+        time complexity: O(endIndex - startIndex)
+        space complexity: O(endIndex - startIndex)
      */
     private static int[] subArray(int[] array, int startIndex, int endIndex) {
         int[] result = new int[endIndex - startIndex];

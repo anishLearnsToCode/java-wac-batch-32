@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class TwoDArrayInput {
+    /*
+        time complexity: O(1)
+        space complexity: O(1)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //        int rows = scanner.nextInt();
