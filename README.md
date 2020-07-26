@@ -12,7 +12,8 @@
     <summary><b>Workshop Timings</b></summary>
     Workshop Dates: 16th - 29th July 2020 (weekdays) <br>
     Workshop Timings: 12:00 AM - 3:30 PM (12 - 15.30) <br>
-    Break Timings: 2:00 - 2:20 PM (14 - 14.20)
+    Break Timings: 2:00 - 2:20 PM (14 - 14.20) <br>
+    Exceptional: 27th July workshop to be conducted @ 5:30 PM - 9:00 PM (17.30 - 21)
 </details>
 
 [Class Recordings 📽](https://onedrive.live.com/?authkey=%21AMhAl0bfPv9OAzM&id=BD99C9D5BDB4DD2E%2192164&cid=BD99C9D5BDB4DD2E)
