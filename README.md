@@ -869,6 +869,16 @@ different implementations and ideas we might've used or to use as a reference if
 
 ## Day 9
 ### Topics Discussed
+- [Stack](src/day9/MyStack.java)
+- [Stack (Continued)](src/day9/StackRunner.java)
+- [Builder Design Pattern](src/day9/ComplicatedObject.java)
+- [Builder Design Pattern (Continued)](src/day9/ComplicatedObjectRunner.java)
+- [Collections Framework: ArrayList](src/day9/ArrayLists.java)
+- [Collections Framework: Queues](src/day9/QueueRunner.java)
+- [Collections Framework: PriorityQueues](src/day9/QueueRunner.java)
+- [Collections Framework: Stacks](src/day9/Stacks.java)
+- [Iterable Interface: Even Numbers](src/day9/EvenNumbers.java)
+- [Iterable Interface: Even Numbers](src/day9/EvenNumbersRunner.java)
 
 ### Sample Problems
 Try the problems given below and have a look at the solution only after you have solved it to see the 
