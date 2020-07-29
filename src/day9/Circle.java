@@ -1,15 +1,44 @@
 package day9;
 
+import java.util.Objects;
+
 public class Circle implements Shape {
     private double radius;
 
-    Circle(double radius) {
+    public Circle(double radius) {
         this.radius = radius;
     }
 
     public double getRadius() {
         return radius;
     }
+
+    @Override
+    public String toString() {
+        return "Circle{" +
+                "radius=" + radius +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object object) {
+        if (object instanceof Circle) {
+            Circle other = (Circle) object;
+            return this.radius == other.radius;
+        }
+        return false;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(radius);
+    }
+
+
+//    @Override
+//    public String toString() {
+//        return "hello world";
+//    }
 
     @Override
     public void draw() {

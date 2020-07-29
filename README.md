@@ -894,6 +894,7 @@ different implementations and ideas we might've used or to use as a reference if
 
 ## Day 10
 ### Topics Discussed
+- []()
 
 ### Sample Problems
 | Problem | Platform | Solution Link |

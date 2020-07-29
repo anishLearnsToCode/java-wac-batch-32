@@ -1,5 +1,7 @@
 package day9;
 
+import java.util.Objects;
+
 public class Student {
     private String firstName;
     private String lastName;
@@ -15,6 +17,22 @@ public class Student {
         this.firstName = firstName;
         this.lastName = lastName;
         this.age = age;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Student student = (Student) o;
+        return age == student.age &&
+                Objects.equals(firstName, student.firstName) &&
+                Objects.equals(lastName, student.lastName) &&
+                rollNumber.equals(student.rollNumber);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(firstName, lastName, age, rollNumber);
     }
 
     public static class Builder {
