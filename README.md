@@ -908,7 +908,7 @@ different implementations and ideas we might've used or to use as a reference if
 - [hashCode()](src/day10/HashCodeMethod.java)
 - [HashSet](src/day10/HashSets.java)
 - [HashMap](src/day10/HashMaps.java)
-- [HashMan: Words in a Sentence](src/day10/FrequencyCounter.java)
+- [HashMap: Words in a Sentence](src/day10/FrequencyCounter.java)
 
 ### Sample Problems
 | Problem | Platform | Solution Link |
