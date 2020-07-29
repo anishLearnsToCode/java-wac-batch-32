@@ -894,7 +894,21 @@ different implementations and ideas we might've used or to use as a reference if
 
 ## Day 10
 ### Topics Discussed
-- []()
+- [Natural Numbers Iterator](src/day10/NaturalNumbers.java)
+- [Natural Numbers Iterator (Continued)](src/day10/NaturalNumbersRunner.java)
+- [Prime Numbers Iterator](src/day10/PrimeNumbers.java)
+- [Prime Numbers Iterator (Continued)](src/day10/PrimeNumbersRunner.java)
+- [Comparators](src/day10/Movie.java)
+- [Comparators (Continued)](src/day10/MovieRunner.java)
+- [Graphing Application](src/day10/GraphingApplication.java)
+- [Graphing Application (Continued)](src/day10/GraphingApplicationRunner.java)
+- [Queue](src/day10/Queues.java)
+- [Stacks](src/day10/Stacks.java)
+- [Priority Queues](src/day10/PriorityQueues.java)
+- [hashCode()](src/day10/HashCodeMethod.java)
+- [HashSet](src/day10/HashSets.java)
+- [HashMap](src/day10/HashMaps.java)
+- [HashMan: Words in a Sentence](src/day10/FrequencyCounter.java)
 
 ### Sample Problems
 | Problem | Platform | Solution Link |
